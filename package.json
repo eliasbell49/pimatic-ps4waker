@@ -6,9 +6,10 @@
   "files": [
     "ps4waker-plugin.coffee",
     "README.md",
+    "ps4-device-config-schema.coffee",
     "ps4waker-plugin-config-schema.coffee"
   ],
-  "version": "0.1.3",
+  "version": "0.1.4",
   "homepage": "http://github.com/jannispl/pimatic-ps4waker",
   "repository": {
     "type": "git",
