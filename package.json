@@ -7,12 +7,11 @@
     "ps4waker-plugin.coffee",
     "README.md"
   ],
-  "version": "0.8.0",
-  "homepage": "http://your-plugin-website",
-  "private": true,
+  "version": "0.1.0",
+  "homepage": "http://github.com/jannispl/pimatic-ps4waker",
   "repository": {
     "type": "git",
-    "url": "git://github.com/pimatic/pimatic-plugin-template.git"
+    "url": "git://github.com/jannispl/pimatic-ps4waker.git"
   },
   "dependencies": {
     "ps4-waker": "^0.9.0"
